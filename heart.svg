@@ -1,0 +1,10 @@
+<div class="heart">
+<svg width="273" height="300" viewBox="0 0 273 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="273" height="300" fill="white"/>
+<ellipse cx="72.5" cy="72" rx="72.5" ry="72" fill="#FF0000"/>
+<ellipse cx="123.5" cy="82" rx="0.5" ry="3" fill="#D9D9D9"/>
+<path d="M273 69.5C273 107.884 239.645 139 198.5 139C157.355 139 124 107.884 124 69.5C124 31.1162 157.355 0 198.5 0C239.645 0 273 31.1162 273 69.5Z" fill="#FF0000"/>
+<path d="M140.91 299.037L10.0429 108.104L264 103L140.91 299.037Z" fill="#FF0808"/>
+</svg>
+<style>
+

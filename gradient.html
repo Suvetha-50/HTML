@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container{
+            height: 150px;
+            width: 150px;
+            
+            background: linear-gradient(rgb(14, 126, 238),rgb(17, 219, 71));
+            border: 2px solid rgb(253, 20, 125);
+        }
+    </style>
+    <div class="container"></div>
+<Style>
+    div{
+        height: 150px;
+        width: 150px;
+        border-radius: 1%;
+        background-color: brown;
+        /*border: 2px solid blue; */
+    }
+    div:hover{
+         transform:/* rotate(170deg); scale(1.5); skew(60deg);*/ translate(150px); 
+        border-radius: 50%;
+        background: linear-gradient(rgb(17, 219, 71)rgb(14, 126, 238));
+    }
+    div:hover::before{
+        content: "Hii Guys";
+        color:rgb(46, 5, 208)
+    }
+</Style>
+</body>
+</html>
